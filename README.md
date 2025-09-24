@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Taewook! 👋
 
-<!--
-**k-taewook/k-taewook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a passionate developer currently expanding my programming knowledge and skills.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- **Python** - Working on data structures, algorithms, and web development
+- **JavaScript** - Exploring modern frameworks and full-stack development
+- **Java** - Studying object-oriented programming and backend development
+- **React** - Building interactive user interfaces and web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: k.taewook.dev@gmail.com
+
+### 🔭 What I'm focusing on
+- Building solid foundations in programming fundamentals
+- Creating practical projects to apply what I learn
+- Exploring different programming paradigms and best practices
+
+Feel free to connect with me or check out my repositories! 😊
